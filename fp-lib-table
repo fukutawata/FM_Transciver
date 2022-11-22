@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "MIC")(type "KiCad")(uri "${KIPRJMOD}/Library/Jack.pretty")(options "")(descr ""))
+  (lib (name "Trimmer_Capacitor")(type "KiCad")(uri "${KIPRJMOD}/Trimmer_Capacitor.pretty")(options "")(descr ""))
+  (lib (name "VariableInductor1")(type "KiCad")(uri "${KIPRJMOD}/VariableInductor1.pretty")(options "")(descr ""))
+  (lib (name "tactswitch1")(type "KiCad")(uri "${KIPRJMOD}/tactswitch1.pretty")(options "")(descr ""))
+  (lib (name "RTC6215N")(type "KiCad")(uri "${KIPRJMOD}/RTC6215N.pretty")(options "")(descr ""))
+  (lib (name "slideSwitch")(type "KiCad")(uri "${KIPRJMOD}/slideSwitch.pretty")(options "")(descr ""))
+  (lib (name "RTC6215S")(type "KiCad")(uri "${KIPRJMOD}/RTC6215S.pretty")(options "")(descr ""))
+  (lib (name "VariableResister")(type "KiCad")(uri "${KIPRJMOD}/VariableResister.pretty")(options "")(descr ""))
+)

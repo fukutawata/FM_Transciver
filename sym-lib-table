@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "RTC6215N")(type "Legacy")(uri "${KIPRJMOD}/Library/RTC6215N.lib")(options "")(descr ""))
+  (lib (name "BA1404")(type "Legacy")(uri "${KIPRJMOD}/Library/BA1404.lib")(options "")(descr ""))
+  (lib (name "AudioJack")(type "Legacy")(uri "${KIPRJMOD}/Library/SJ-3523-SMT-TR.lib")(options "")(descr ""))
+  (lib (name "Var_Coil")(type "KiCad")(uri "${KIPRJMOD}/Var_Coil.kicad_sym")(options "")(descr ""))
+)
