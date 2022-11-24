@@ -21,5 +21,5 @@ https://jlcpcb.com
 # Usage
 - Here is the overall schematic.
 <img src="https://user-images.githubusercontent.com/104880613/203668823-4399a556-b62a-40ff-b373-2a5516816d01.jpg" width="50%">
--  Here is the This is the wiring diagram of the circuit
+- Here is the This is the wiring diagram of the circuit.
 <img src="https://user-images.githubusercontent.com/104880613/203668829-942ddf86-29a3-4e78-8d14-59e24569e00d.jpg" width="50%">
